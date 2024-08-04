@@ -1,0 +1,87 @@
+body {
+    background-color:  hsl(225, 100%, 94%);
+    margin: auto;
+    padding-top: 70px;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    background-color: hsl(225, 100%, 98%);
+    box-shadow: -1px 1px 20px 5px hsl(224, 23%, 55%);
+    border-radius: 10px;
+}
+
+.illustration {
+    width: 375px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 0;
+}
+
+.order {
+    text-align: center;
+    padding: 30px;
+    padding-top: 15px;
+}
+
+.order-summary {
+    font-weight: 900;
+    font-size: x-large;
+    color: hsl(223, 47%, 23%);
+}
+
+.you {
+    color: hsl(224, 23%, 55%);
+}
+
+.music {
+    display: flex;
+    background-color: hsl(225, 100%, 91%);
+    padding: 20px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    border-radius: 7px;
+}
+
+.music-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 25px;
+}
+
+.annual p {
+    margin: 0px;
+}
+
+.year {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.annual-plan {
+    margin: 0;
+    padding-bottom: 6px;
+    font-weight: 700;
+}
+
+.change {
+    margin-left: 50px ;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: small;
+}
+
+.proceed {
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+    padding: 10px;
+    border-radius: 7px;
+    width: 250px;
+    margin: auto;
+    box-shadow: -1px 1px 20px -5px hsl(245, 75%, 52%);
+}
+
+
+
